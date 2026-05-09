@@ -14,3 +14,9 @@ Brute-force Password Generator is a simple and fast tool for generating random p
 
 # Why this particular generator?
 This isn't just a password generator, it's specifically designed for brute-force testing. More features and flexibility will be added in the future.
+
+# How do I install it?
+- Click the "Releases" button.
+- Download the latest release zip file.
+- Unzip the zip file for easy access.
+- Open Password Generator.exe
