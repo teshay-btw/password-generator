@@ -20,3 +20,5 @@ This isn't just a password generator, it's specifically designed for brute-force
 - Download the latest release zip file.
 - Unzip the zip file for easy access.
 - Open Password Generator.exe
+
+<img width="1082" height="762" alt="image" src="https://github.com/user-attachments/assets/d6e1485e-668c-447e-b219-47e15f661055" />
