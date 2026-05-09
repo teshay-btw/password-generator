@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/qt/qml/password-generator">
+        <file>main.qml</file>
+	<file>ZalandoSansExpanded-Bold.ttf</file>
+	<file>icon.png</file>
+    </qresource>
+</RCC>
